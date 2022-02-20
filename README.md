@@ -1,16 +1,13 @@
-### Hi there 👋
+BR - Ola !!! Meu nome é Felipe Bertoni e atualmente sou estudante de Ciência da Computação na Universidade Federal de São Carlos - Campus Sorocaba
 
-<!--
-**Feshoter/Feshoter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+US - Hello !!! My name is Felipe Bertoni and i current study Computer Science in the university Federal de São Carlos - Campus Sorocaba
 
-Here are some ideas to get you started:
+🌱 I’m currently learning C, Python, Java and more
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 I realy like hackathons and capture the flag
+
+😄 Pronouns: he/him/they/them
+
+⚡ Fun fact: 🐈 Love cats 🐈
+
+📫 How to reach me: felipesalvati@hotmail.com
